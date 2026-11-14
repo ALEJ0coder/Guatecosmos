@@ -1,7 +1,7 @@
-# 🚀 Lunar Outpost – Engineering Trade-offs (Hackathon Project)
+# 🚀 Guatecosmos – Engineering Trade-offs 
 
-2D Unity game (Unity 2022+, C#) for kids 7-12. Manage a Moon/Mars outpost where
-**every choice costs something**. Real NASA science: SPEs, GCRs, regolith, water shielding.
+Juego en unity para kids 7-12. cuidar una estacion en la luna.
+
 
 ## Folder structure
 ```
@@ -26,8 +26,8 @@ Assets/_Project/
 └── Docs/                Design notes, NASA science facts
 ```
 
-## Team ownership (edit names!)
-| # | Person | Module | Folders they own |
+## Team ownership (edit names!) /// a ser decidido! 
+| # | persona | Module | Folders they own |
 |---|--------|--------|------------------|
 | 1 | ___ | Core + Resources | Scripts/Core, Scripts/Data, Data/Resources |
 | 2 | ___ | Dashboard UI | Scripts/Dashboard, Prefabs/UI, Art/UI |
